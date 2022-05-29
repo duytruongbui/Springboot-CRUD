@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+# Welcome to my Springboot CRUD
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is my self-study small demo project.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+I use IDE: Intellij IDEA Ultimate and Springboot Framework.
+PostgreSQL is used in this project.
